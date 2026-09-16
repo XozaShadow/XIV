@@ -19,8 +19,8 @@ jobs:
           python3 << 'PY'
           import json, urllib.request
           urls = [
-            "https://raw.githubusercontent.com/XozaShadow/LightsOn/main/repo.json",
-            "https://raw.githubusercontent.com/XozaShadow/StatusShift/main/repo.json",
+            "https://raw.githubusercontent.com/ShadowstarIO/LightsOn/main/repo.json",
+            "https://raw.githubusercontent.com/ShadowstarIO/StatusShift/main/repo.json",
           ]
           out = []
           seen = set()
