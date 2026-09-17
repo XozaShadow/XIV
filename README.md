@@ -12,8 +12,6 @@ https://raw.githubusercontent.com/ShadowstarIO/XIV/main/repo.json
 
 Save, then `/xlplugins`. Search **LightsOn** or **StatusShift**.
 
-Turn on **Get plugin testing versions** if you want LightsOn test builds.
-
 Do not also add each plugin’s own `repo.json`. Same `InternalName` in two catalogs duplicates in the installer.
 
 The old `XozaShadow/XIV` URL still redirects. Use this one going forward.
